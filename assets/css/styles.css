@@ -500,9 +500,10 @@ html {
 /* CTA Section */
 .cta-section {
     padding: 5rem 0;
-    background-color: var(--secondary-color);
+    background-color: #f8f9fa;
     text-align: center;
 }
+
 
 .cta-content {
     max-width: 48rem;
